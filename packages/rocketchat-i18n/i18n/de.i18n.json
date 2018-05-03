@@ -1433,7 +1433,7 @@
   "My_location": "Mein Ort",
   "n_messages": "%s Nachrichten",
   "N_new_messages": "%s neue Nachrichten",
-  "Name": "Name",
+  "Name": "Name oder Profiltext",
   "Name_cant_be_empty": "Es muss ein Name angegeben werden",
   "Name_of_agent": "Name des Agenten",
   "Name_optional": "Name (optional)",
